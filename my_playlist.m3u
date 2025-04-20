@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:214, The Weeknd - Blinding Lights
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
+
+#EXTINF:185, Dua Lipa - Levitating
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3
+
+#EXTINF:210, Olivia Rodrigo - Good 4 U
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3
+
+#EXTINF:217, Ed Sheeran - Shape of You
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3
+
+#EXTINF:240, Harry Styles - Watermelon Sugar
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3
+
+#EXTINF:232, Justin Bieber - Peaches
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3
+
+#EXTINF:-1,Sample Video 1
+https://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_30mb.mp4
+#EXTINF:-1,Sample Video 2
+https://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_10mb.mp4
+#EXTINF:-1,Sample Video 3
+https://www.w3schools.com/html/movie.mp4
